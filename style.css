@@ -665,6 +665,12 @@ main .col-1 .card12 p{
     }
     .row .col-left{
         display: block;
+        margin:10px;
+        padding:10px;
+    
+    }
+    .row .col-left h1{
+        font-size: 90px;;
     }
     .row .col-right{
         display: block;
@@ -695,6 +701,8 @@ main .col-1 .card12 p{
         width:300px;
         height:350px;
         padding:10px 15px;
+        transform: scale(1.05);
+        
     }
     main .row-1 .col-1 .card-1{
         width:300px;
