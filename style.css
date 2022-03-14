@@ -455,8 +455,8 @@ main .col-1 .card6 h4{
     margin:10px;
     padding:10px 10px;
     text-align:center;
+    font-family: 'Candal',sans-serif;
     font-size:15px;
-    /* font-weight: bold; */
     color:var(--color2);
  }
  .page-wrapper .container .row .card:hover{
@@ -469,7 +469,6 @@ main .col-1 .card6 h4{
     font-size: 16px;
     color: var(--color1);
     text-decoration: none;
-    /* font-weight: bold; */
     padding: .5rem 1rem;
     background:var(--color3);
     border:1px transparent;
@@ -691,7 +690,7 @@ main .col-1 .card12 p{
     }
 
   }
-@media screen and (max-width:412px){
+@media screen and (max-width:600px){
     main .row-1 .col-1 .card{
         width:300px;
         height:350px;
@@ -721,6 +720,11 @@ main .col-1 .card12 p{
     }
 
     
+}
+@media screen and (max-width:759px){
+    .btn-1{
+        font-size: 14px;
+        color: var(--color1);
 }
 @media screen and (max-width:620px){
     .page-wrapper .container .row .card{
