@@ -308,7 +308,8 @@ h4{
 
 }
 .footer-1 .footer-content p{
-    margin:20px;
+    font-size:10px;
+    margin-bottom:40px;
     padding:8px;
 }
 .footer-1 .footer-bottom{
@@ -767,7 +768,3 @@ main .col-1 .card12 p{
     }
     
 }
-
-  
-
-  
