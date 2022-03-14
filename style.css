@@ -700,9 +700,12 @@ main .col-1 .card12 p{
     main .row-1 .col-1 .card{
         width:300px;
         height:350px;
-        padding:10px 15px;
+        margin-right:10px;
+        margin-top: 20px;
+        padding:10px 15px;  
+    }
+    main .row-1 .col-1 .card:hover{
         transform: scale(1.05);
-        
     }
     main .row-1 .col-1 .card-1{
         width:300px;
